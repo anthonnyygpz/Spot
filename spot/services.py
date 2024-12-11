@@ -4,7 +4,7 @@ from dataclasses import dataclass
 @dataclass
 class APIClient:
     # API Configuration
-    BASE_URL = "http://127.0.0.1:8000/"
+    BASE_URL = "https://spot-dj8q.onrender.com/"
     ENDPOINT = "/api/get_info_tracks"
     
 
