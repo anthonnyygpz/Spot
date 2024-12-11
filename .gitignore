@@ -1,0 +1,10 @@
+.web
+__pycache__/
+*.py[cod]
+*.db
+assets/external/
+__pycache__
+.venv/
+.git
+.env
+creds.json
